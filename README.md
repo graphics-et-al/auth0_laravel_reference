@@ -7,6 +7,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Auth0/Laravel integration reference app
+
+This app demonstrates a use case where a Laravel app authenticates using *either* Auth0 *or* local, native Laravel authentication
+
+Download, make your own .env, run composer install, php artisan migrate, php artisan serve, and off you go :)
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
